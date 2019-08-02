@@ -1,1 +1,1 @@
-a meme generator exercise. just for fun :D 
+a meme generator exercise by using ReactJS. just for fun :D
